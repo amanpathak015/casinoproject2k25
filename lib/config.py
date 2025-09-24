@@ -1,2 +1,2 @@
 #config file
-#new code added
+print("Hello")
